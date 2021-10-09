@@ -33,7 +33,7 @@ body {
 
 .hero::before {
   content: "";
-  background-image: url("../resources/images/landing_portrait-min.JPG");
+  background-image: url("../resources/images/landing_portrait-min.jpg");
   background-size: cover;
   position: absolute;
   background-position: center center;
